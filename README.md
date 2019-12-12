@@ -1,10 +1,8 @@
 # Appium_Framework
 
 
-npm install -g appium <br>
 appium --chromedriver-executable /path/to/my/chromedriver
-// ADB setup wireless ---> adb tcpip 5555 ----> adb connect <IP of CELL PHONE> ----> adb kill-server
-  
+// ADB setup wireless ---> adb tcpip 5555 ----> adb connect <IP of CELL PHONE> ----> adb kill-server<br>
   
 > brew install node      # get node.js<br>
 > npm install -g appium  # get appium<br>
